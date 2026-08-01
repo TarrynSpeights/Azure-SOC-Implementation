@@ -1,4 +1,4 @@
-# Azure SOC Implementation with Microsoft Sentinel
+# Detecting Failed Authentication Attempts Using Microsoft Sentinel
 
 ## Overview
 
